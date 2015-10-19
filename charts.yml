@@ -1,0 +1,13 @@
+name: Charts
+version: 1.0.0
+description: "Google Charts plugin for Morfy"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-charts
+bugs: https://github.com/morfy-cms/morfy-plugin-charts/issues
+license: MIT
+
+# Plugin settings
+enabled: true
