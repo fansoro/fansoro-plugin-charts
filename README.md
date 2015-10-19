@@ -7,7 +7,7 @@ Code:
 ```
 
 Result:  
-![Charts](screenshot-1.jpg)
+![Charts](screenshot-1.png)
 
 Code:  
 ```
@@ -15,7 +15,7 @@ Code:
 ```
 
 Result:  
-![Charts](screenshot-2.jpg)
+![Charts](screenshot-2.png)
 
 Code:  
 ```
@@ -23,7 +23,7 @@ Code:
 ```
 
 Result:  
-![Charts](screenshot-3.jpg)
+![Charts](screenshot-3.png)
 
 Code:  
 ```
@@ -31,7 +31,7 @@ Code:
 ```
 
 Result:  
-![Charts](screenshot-4.jpg)
+![Charts](screenshot-4.png)
 
 
 ## License
