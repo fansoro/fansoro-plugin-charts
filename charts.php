@@ -10,7 +10,7 @@
  */
 
 // Add Action
-Morfy::addAction('theme_header', function () {
+Action::add('theme_header', function () {
     echo('<script type="text/javascript" src="https://www.google.com/jsapi"></script>');
 });
 
