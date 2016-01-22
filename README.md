@@ -1,5 +1,5 @@
-# Morfy Charts Plugin
-Morfy Google Charts plugin.
+# Fansoro Charts Plugin
+Fansoro Google Charts plugin.
 
 Code:  
 ```
@@ -35,4 +35,4 @@ Result:
 
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-charts/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-charts/blob/master/LICENSE)

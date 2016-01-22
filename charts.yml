@@ -1,12 +1,12 @@
 name: Charts
 version: 2.0.0
-description: "Google Charts plugin for Morfy"
+description: "Google Charts plugin for Fansoro"
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-charts
-bugs: https://github.com/morfy-cms/morfy-plugin-charts/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-charts
+bugs: https://github.com/fansoro/fansoro-plugin-charts/issues
 license: MIT
 
 # Plugin settings

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Charts Plugin
+ * Fansoro Charts Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *
